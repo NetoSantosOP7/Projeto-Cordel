@@ -94,7 +94,7 @@ section{
     background-image: url(../imagens/background001.jpg);
     background-size:cover ;
     background-attachment: fixed;
-    background-position: right center;
+    background-position: 62% center;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
 }
 
@@ -110,7 +110,7 @@ section{
     background-image: url(../imagens/background002.jpg);
     background-size:cover ;
     background-attachment: fixed;
-    background-position: right center;
+    background-position: center center;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
 }
 
